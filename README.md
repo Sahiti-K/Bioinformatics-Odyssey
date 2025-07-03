@@ -1,4 +1,6 @@
-<img src="Banner.png" alt="Bioinformatics Odyssey" style="width:100%;"/>
+<p align="center">
+  <img src="Banner.png" alt="Bioinformatics Odyssey Banner" width="100%">
+</p>
 
 # Bioinformatics-Odyssey 🧬
 A personal and technical journey into the world of bioinformatics — combining core Python programming, problem-solving with Rosalind, and exploration of real biological data.
